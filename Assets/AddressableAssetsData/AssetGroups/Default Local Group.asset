@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5974d6ffb32c8ed4cbed3952adcd0e22
+  m_SerializeEntries:
+  - m_GUID: e3c24b1ab65e30c47bf7f4a2e2e1490d
+    m_Address: Assets/Scripts/Plane.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - road
+  - m_GUID: 535146d799bc7d54d8213688d18fdcc9
+    m_Address: Assets/Prefabs/Obstacle01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - obstacle
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 48131c83e5efbce43b342db915c8f912, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ab7fe60ca4bcffe43ac8440d6d19c097, type: 2}
+    - {fileID: 11400000, guid: 0197ea38c7c6e7046b943191aae2caeb, type: 2}
